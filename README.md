@@ -68,12 +68,12 @@ CGPA: 7.0
 
 Class XII (2022)
 
-Gurudev Public School
+Senior Secondary School, Tilouthu, Rohtas, Bihar (BSEB)
 Score: 70%
 
 Class X (2020)
 
-Gurudev Public School
+Senior Secondary School, Tilouthu, Rohtas, Bihar (BSEB)
 Score: 75%
 
 
