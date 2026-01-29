@@ -1,7 +1,7 @@
 Akash Pal 👋
 
 💻 Full Stack Developer (MERN & Backend)
-🚀 Open to internships, collaborations & real-world projects
+ Open to internships, collaborations & real-world projects
 
 
 ---
