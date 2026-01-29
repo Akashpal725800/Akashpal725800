@@ -22,7 +22,7 @@ I’m a passionate Full Stack Developer focused on building scalable web applica
 
 💼 Experience
 
-Software Developer Intern — Softsira
+Full Stack Developer Intern — Softsira
 
 Jun 2025 – Present
 
