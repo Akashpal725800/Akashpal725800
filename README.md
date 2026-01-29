@@ -34,28 +34,17 @@ Learning industry best practices, backend workflows, and team collaboration.
 
 ---
 
-🛠 Tech Stack
+## 🛠 Skills
 
-Languages
-
-JavaScript
-
-
-Databases
-
-MongoDB
-
-MySQL
-
-
-Web & Backend Development
-
-HTML • CSS • React.js • Redux
-
-Node.js • Express.js • FastAPI
-
-REST APIs
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 Tools & Platforms
 
@@ -92,9 +81,9 @@ Score: 75%
 
 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/akashpal-in
-
-📧 Email: akashkumar725800@gmail.com
+📧 **Email:** [akashkumar725800@gmail.com](mailto:akashkumar725800@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/akashpal-in](https://www.linkedin.com/in/akashpal-in)  
+💻 **GitHub:** [github.com/Akashpal725800](https://github.com/Akashpal725800)
 
 
 
