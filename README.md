@@ -68,12 +68,12 @@ CGPA: 7.0
 
 Class XII (2022)
 
-Senior Secondary School, Tilouthu, Rohtas, Bihar (BSEB)
+Senior Secondary School, Rohtas, Bihar (BSEB)
 Score: 70%
 
 Class X (2020)
 
-Senior Secondary School, Tilouthu, Rohtas, Bihar (BSEB)
+Senior Secondary School, Rohtas, Bihar (BSEB)
 Score: 75%
 
 
