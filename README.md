@@ -69,12 +69,12 @@ CGPA: 7.0
 Class XII (2022)
 
 Senior Secondary School, Rohtas, Bihar (BSEB)  
-Score: 70%
+Score: 70.6%
 
 Class X (2020)
 
 Senior Secondary School, Rohtas, Bihar (BSEB)  
-Score: 75%
+Score: 74.4%
 
 
 ---
